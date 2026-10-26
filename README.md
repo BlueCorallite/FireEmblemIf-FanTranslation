@@ -7,6 +7,8 @@ This fork of mine is just making minor changes and edits to certain names to mak
 
 It is also important to note that while this fork is based off of TeamIf's repository, the version of the patch that I based my edits on were by this user on [Varis](https://varishangout.com/index.php?threads/fire-emblem-fates-uncensored-patch.2738/) forums who continued unofficially working on the project after TeamIf went dormant. Their last release is from April 2026.
 
+This has not been extensively tested, I ran the game a few times, as well as loading my Conquest save in the middle of its playthrough and ran into no issues, so I'm not expecting much of those.
+
 | Category | NoJ | NoA | TeamIF | Me | Notes |
 |----------|-----|-----|--------|----|-------|
 | Characters | | | | | |
