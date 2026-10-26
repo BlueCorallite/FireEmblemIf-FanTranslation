@@ -45,7 +45,7 @@ This game did receive an official English localization and was released under th
 We're trying to update to update the repo on a monthly basis, and we'll release a ready-to-use patch when certain milestones are met.
 
 ### How to use
-To use the patch, simply download the latest release, located ~~[here](https://github.com/ShadySheikah/FireEmblemIf-FanTranslation/releases)~~. Download the latest release seen on the right.
+To use the patch, simply download the latest release, located [here](https://github.com/BlueCorallite/FireEmblemIf-FanTranslation/releases/).
 
 Then, follow the instructions located in this repo's [wiki](https://github.com/ShadySheikah/FireEmblemIf-FanTranslation/wiki).
 
