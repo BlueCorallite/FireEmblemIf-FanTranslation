@@ -1,6 +1,8 @@
 # Uncompressed or incompatible files
 *.txt
 *.bin
+/IfPatcher.exe
+.release/
 
 !banner.bin
 !*.lz
