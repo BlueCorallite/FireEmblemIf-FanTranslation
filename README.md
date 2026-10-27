@@ -35,6 +35,9 @@ This has not been extensively tested, I ran the game a few times, as well as loa
 I briefly considering replacing all the Byakuyan class names with their original Japanese terms, but that would probably go a bit too far. I mainly changed the classes whose terms are already recognizable by other languages like kyuubi and miko.
 This excellent chart from [Serenes Forest](https://serenesforest.net/fire-emblem-fates/name-chart/classes/?utm_source=chatgpt.com) is what I used for my source.
 
+To-do:
+- Find out how to change class names on the small preview sequence that plays when idling on the title screen.
+
 ## Fire Emblem If Fan Translation (last updated April 2023)
 ### Team If
 
